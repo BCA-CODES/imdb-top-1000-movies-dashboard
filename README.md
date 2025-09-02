@@ -43,7 +43,7 @@ The dashboard includes the following insights:
 ---
 
 ## 📸 Dashboard Preview
-<img width="1857" height="958" alt="wildlife_observation_Dashboard" src="https://github.com/BCA-CODES/Wildlife-Observation-Dashboard/blob/main/animal_dashboard.png" />
+<img width="1857" height="958" alt="wildlife_observation_Dashboard" src="https://github.com/BCA-CODES/imdb-top-1000-movies-dashboard/blob/main/imdb_1000_movie_dashboard.png" />
 
 ---
 
